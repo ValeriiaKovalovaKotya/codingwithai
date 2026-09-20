@@ -10,6 +10,7 @@ Flatmates (primarily students and young professionals aged 18–30) sharing livi
 ## MVP Definition
 The smallest version that actually solves the problem is a web app where flatmates can join a shared group, log expenses split equally, see an auto-calculated balance of who owes whom, and mark debts as settled.
 
+## Which AI suggestion did you reject, and why?
 Rejected Suggestion: Adding category tags (like Groceries, Cleaning, Utilities) and receipt photo uploads to the expense form.
 
 Why: In shared flats, expenses are quickly forgotten if entering them takes more than a few seconds. Keeping the form strictly minimal ensures users can log expenses in under 10 seconds without friction or decision fatigue.
